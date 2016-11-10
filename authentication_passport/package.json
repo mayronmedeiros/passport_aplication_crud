@@ -1,0 +1,19 @@
+{
+  "name": "authentication_passport",
+  "version": "1.0.0",
+  "description": "Atuthentication Whit Passport",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayronmedeiros/authentication_passport.git"
+  },
+  "author": "Mayron Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayronmedeiros/authentication_passport/issues"
+  },
+  "homepage": "https://github.com/mayronmedeiros/authentication_passport#readme"
+}
